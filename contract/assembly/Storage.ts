@@ -1,4 +1,4 @@
-import { PersistentUnorderedMap } from "near-sdk-core";
+import { PersistentUnorderedMap, context } from "near-sdk-core";
 import Proposal from './models/Proposal';
 import User from './models/User';
 
